@@ -1,3 +1,3 @@
 # passwdGeneration
-That was my first python project
+That was my first python project.
 Generating a password
