@@ -1,2 +1,3 @@
 # passwdGeneration
-Thats where I store the python projects
+That was my first python project
+Generating a password
